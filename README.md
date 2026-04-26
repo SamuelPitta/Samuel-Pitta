@@ -21,6 +21,22 @@ vamos conversa!<br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <br>
 <br>
-![Samuel stats](https://github-readme-stats.vercel.app/api?username=SamuelPitta&theme=blue_navy&show_icons=true)
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelPitta&layout=compact)
+<br>
+<br>
+<picture lang="pt-br">
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=SamuelPitta&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SamuelPitta&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelPitta&show_icons=true" />
+</picture>
+
 
 
